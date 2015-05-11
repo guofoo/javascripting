@@ -1,3 +1,3 @@
 // enter your code below
 
-console('Hello');
+console('hello');
