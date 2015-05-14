@@ -3,4 +3,4 @@ function math(a, b, c) {
 }
 
 // enter your code below
-
+console.log(math(53,61,66));
