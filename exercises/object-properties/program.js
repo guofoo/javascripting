@@ -3,4 +3,4 @@ var food = {
 };
 
 // enter your code below
-
+console.log(food.types);
