@@ -5,4 +5,4 @@ var pizza = {
 };
 
 // enter your code below
-
+console.log(pizza);
