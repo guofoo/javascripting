@@ -1,8 +1,9 @@
 var pizza = {
   toppings: ['cheese', 'sauce', 'pepperoni'],
   crust: 'deep dish',
-  serves: 2,
+  serves: 2
 };
 
 // enter your code below
 
+console.log(pizza);
